@@ -1,1 +1,1 @@
-from flask inport Flask
+from flask import Flask
